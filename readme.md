@@ -1,2 +1,2 @@
-Guangshi Xu
+Bean
 Lab4
